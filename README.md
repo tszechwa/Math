@@ -1,2 +1,2 @@
 # Math
-My library copying math.h
+My math.h library
