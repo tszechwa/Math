@@ -1,4 +1,3 @@
-# Math
 ![MATH](./images/math.webp)
 
 **The project is its own implementation of the math.h library.**
